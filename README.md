@@ -1,2 +1,2 @@
-# minhas-anotacoes
-Anotações de todos os cursos feito.
+# minhas-anotacoes googlecloud
+Anotações do curso do google cloud.
