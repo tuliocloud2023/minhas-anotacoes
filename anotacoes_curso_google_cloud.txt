@@ -42,3 +42,6 @@ rovedor Cloud Gerencia: Runtime, Middleware, OS, Virtualização, Servidor, Stor
 Você Gerencia:
 rovedor Cloud Gerencia: Aplicações, Dados, Runtime, Middleware, OS, Virtualização, Servidor, Storage, Rede
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
