@@ -1,0 +1,44 @@
+- Quais os tipos de cloud computing?
+-> Infraetrutura como Serviço - Infrastructure As a Service - IaaS
+-> Plataforma como serviço - Platform As a Service - PaaS
+-> Software como serviço - Software As a Service - SaaS
+
+
+# Infraetrutura como Serviço - IaaS
+* O contratante gerencia os servidores, sejam físicos ou virtuais.
+* O contratante gerencia os sistemas operacionais e software adicionais.
+* O datacenter não tem responsabilidade sobre o que você faz com os recursos (servidores).
+* Empresas em geral compram serviços de hospedagem.
+
+# Plataforma como Serviço - PaaS
+* O datacenter é responsável pelos recursos físicos ou virtuais, sistema operacionais, softwares, alguns itens de segurança.
+* O  contratante é responsável pela aplicação.
+* Aqui por exemplo, se você quiser colocar um website no ar, a empresa te provê todo o ambiente, bastando você fazer o upload da sua aplicação e configurá-la.
+
+# Software como Serviço - SaaS
+* Nesse modelo você praticamente usa o serviço e não tem que se preocupar com nada. Um bom exemplo disso é serviço de email como Gmail, a própria Udemy, Office 365, Saleforce.com entre outros.
+
+
+  - Tipos de instalações de Cloud
+  -> Public Cloud - Google Cloud Platform, Amazon Web Services, Microsoft Azure.
+  -> Hybrid Cloud - Combinação entre Publica e Privada.
+  -> Private Cloud - Normalmente é uma instalação física em um Datacenter onde você faz todo o gerenciamento usando diversas tecnologias entre elas VMWare e OpenStack.
+
+- Resumo dos tipos de instalações de cloud -
+
+# On Premises (datacenter)
+Você Gerencia: Aplicações, Dados, Runtime, Middleware, OS, Virtualização, Servidor, Storage, Rede
+Provedor Cloud Gerencia:
+
+# Infraetrutura como Serviço - IaaS
+Você Gerencia: Aplicações, Dados, Runtime, Middleware, OS
+Provedor Cloud Gerencia: Virtualização, Servidor, Storage, Rede
+
+# Plataforma como Serviço - PaaS
+Você Gerencia: Aplicações, Dados
+rovedor Cloud Gerencia: Runtime, Middleware, OS, Virtualização, Servidor, Storage, Rede
+
+# Software como Serviço - SaaS
+Você Gerencia:
+rovedor Cloud Gerencia: Aplicações, Dados, Runtime, Middleware, OS, Virtualização, Servidor, Storage, Rede
+
